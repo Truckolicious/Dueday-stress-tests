@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Stress Test//Dueday//EN
+X-WR-CALNAME:Sync Stage 3
+BEGIN:VEVENT
+UID:event-assignment-9001
+DTSTAMP:20261017T120000Z
+SUMMARY:Bio Homework 1 [Biology--Shah]
+DTSTART;VALUE=DATE:20261102
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_801#assi
+ gnment_9001
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-9101
+DTSTAMP:20261017T120000Z
+SUMMARY:English Reading 1 [English--Cole]
+DTSTART;VALUE=DATE:20261103
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_802#assi
+ gnment_9101
+END:VEVENT
+END:VCALENDAR
