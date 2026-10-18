@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Stress Test//Dueday//EN
+X-WR-CALNAME:New Class Test
+BEGIN:VEVENT
+UID:event-assignment-7001
+DTSTAMP:20261018T120000Z
+SUMMARY:Chem Lab 1 [Chemistry--Park]
+DTSTART;VALUE=DATE:20261026
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_901#assignment_7001
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-7002
+DTSTAMP:20261018T120000Z
+SUMMARY:Chem Lab 2 [Chemistry--Park]
+DTSTART;VALUE=DATE:20261102
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_901#assignment_7002
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-7003
+DTSTAMP:20261018T120000Z
+SUMMARY:Chem Lab 3 [Chemistry--Park]
+DTSTART;VALUE=DATE:20261109
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_901#assignment_7003
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-7101
+DTSTAMP:20261018T120000Z
+SUMMARY:History Essay 1 [US History--Grant]
+DTSTART;VALUE=DATE:20261028
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_902#assignment_7101
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-7102
+DTSTAMP:20261018T120000Z
+SUMMARY:History Essay 2 [US History--Grant]
+DTSTART;VALUE=DATE:20261104
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_902#assignment_7102
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-7103
+DTSTAMP:20261018T120000Z
+SUMMARY:History Essay 3 [US History--Grant]
+DTSTART;VALUE=DATE:20261111
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_902#assignment_7103
+END:VEVENT
+END:VCALENDAR
