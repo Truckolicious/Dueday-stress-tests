@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Stress Test//Dueday//EN
-X-WR-CALNAME:Sync Stage 2
+X-WR-CALNAME:Sync Stage 1
 BEGIN:VEVENT
 UID:event-assignment-9001
 DTSTAMP:20261017T120000Z
@@ -41,6 +41,14 @@ SUMMARY:Bio Homework 5 [Biology--Shah]
 DTSTART;VALUE=DATE:20261106
 URL:https://canvas.stresstest.edu/calendar?include_contexts=course_801#assi
  gnment_9005
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-9006
+DTSTAMP:20261017T120000Z
+SUMMARY:Bio Homework 6 [Biology--Shah]
+DTSTART;VALUE=DATE:20261107
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_801#assi
+ gnment_9006
 END:VEVENT
 BEGIN:VEVENT
 UID:event-assignment-9101
