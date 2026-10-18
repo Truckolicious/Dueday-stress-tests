@@ -1,11 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Stress Test//Dueday//EN
-X-WR-CALNAME:Sync Stage 1
+X-WR-CALNAME:Sync Combined
 BEGIN:VEVENT
 UID:event-assignment-9001
 DTSTAMP:20261017T120000Z
-SUMMARY:Bio Homework 1 [Biology--Shah]
+SUMMARY:Bio Homework 1 [AP Biology--Shah]
 DTSTART;VALUE=DATE:20261102
 URL:https://canvas.stresstest.edu/calendar?include_contexts=course_801#assi
  gnment_9001
@@ -13,7 +13,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event-assignment-9002
 DTSTAMP:20261017T120000Z
-SUMMARY:Bio Homework 2 [Biology--Shah]
+SUMMARY:Bio Homework 2 [AP Biology--Shah]
 DTSTART;VALUE=DATE:20261103
 URL:https://canvas.stresstest.edu/calendar?include_contexts=course_801#assi
  gnment_9002
@@ -21,7 +21,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event-assignment-9003
 DTSTAMP:20261017T120000Z
-SUMMARY:Bio Homework 3 [Biology--Shah]
+SUMMARY:Bio Homework 3 [AP Biology--Shah]
 DTSTART;VALUE=DATE:20261104
 URL:https://canvas.stresstest.edu/calendar?include_contexts=course_801#assi
  gnment_9003
@@ -29,7 +29,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event-assignment-9004
 DTSTAMP:20261017T120000Z
-SUMMARY:Bio Homework 4 [Biology--Shah]
+SUMMARY:Bio Homework 4 [AP Biology--Shah]
 DTSTART;VALUE=DATE:20261105
 URL:https://canvas.stresstest.edu/calendar?include_contexts=course_801#assi
  gnment_9004
@@ -37,18 +37,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event-assignment-9005
 DTSTAMP:20261017T120000Z
-SUMMARY:Bio Homework 5 [Biology--Shah]
+SUMMARY:Bio Homework 5 [AP Biology--Shah]
 DTSTART;VALUE=DATE:20261106
 URL:https://canvas.stresstest.edu/calendar?include_contexts=course_801#assi
  gnment_9005
 END:VEVENT
 BEGIN:VEVENT
-UID:event-assignment-9006
+UID:event-assignment-9007
 DTSTAMP:20261017T120000Z
-SUMMARY:Bio Homework 6 [Biology--Shah]
-DTSTART;VALUE=DATE:20261107
+SUMMARY:Bio Homework 7 [AP Biology--Shah]
+DTSTART;VALUE=DATE:20261120
 URL:https://canvas.stresstest.edu/calendar?include_contexts=course_801#assi
- gnment_9006
+ gnment_9007
 END:VEVENT
 BEGIN:VEVENT
 UID:event-assignment-9101
@@ -97,5 +97,29 @@ SUMMARY:English Reading 6 [English--Cole]
 DTSTART;VALUE=DATE:20261108
 URL:https://canvas.stresstest.edu/calendar?include_contexts=course_802#assi
  gnment_9106
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-9201
+DTSTAMP:20261017T120000Z
+SUMMARY:Photo Journal 1 [Photography--Ito]
+DTSTART;VALUE=DATE:20261111
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_803#assi
+ gnment_9201
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-9202
+DTSTAMP:20261017T120000Z
+SUMMARY:Photo Journal 2 [Photography--Ito]
+DTSTART;VALUE=DATE:20261112
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_803#assi
+ gnment_9202
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-9203
+DTSTAMP:20261017T120000Z
+SUMMARY:Photo Journal 3 [Photography--Ito]
+DTSTART;VALUE=DATE:20261113
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_803#assi
+ gnment_9203
 END:VEVENT
 END:VCALENDAR
