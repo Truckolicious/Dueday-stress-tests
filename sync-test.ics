@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Stress Test//Dueday//EN
+X-WR-CALNAME:Sync Stage 2
+BEGIN:VEVENT
+UID:event-assignment-9001
+DTSTAMP:20261017T120000Z
+SUMMARY:Bio Homework 1 [Biology--Shah]
+DTSTART;VALUE=DATE:20261102
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_801#assi
+ gnment_9001
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-9002
+DTSTAMP:20261017T120000Z
+SUMMARY:Bio Homework 2 [Biology--Shah]
+DTSTART;VALUE=DATE:20261103
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_801#assi
+ gnment_9002
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-9003
+DTSTAMP:20261017T120000Z
+SUMMARY:Bio Homework 3 [Biology--Shah]
+DTSTART;VALUE=DATE:20261104
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_801#assi
+ gnment_9003
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-9004
+DTSTAMP:20261017T120000Z
+SUMMARY:Bio Homework 4 [Biology--Shah]
+DTSTART;VALUE=DATE:20261105
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_801#assi
+ gnment_9004
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-9005
+DTSTAMP:20261017T120000Z
+SUMMARY:Bio Homework 5 [Biology--Shah]
+DTSTART;VALUE=DATE:20261106
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_801#assi
+ gnment_9005
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-9101
+DTSTAMP:20261017T120000Z
+SUMMARY:English Reading 1 [English--Cole]
+DTSTART;VALUE=DATE:20261103
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_802#assi
+ gnment_9101
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-9102
+DTSTAMP:20261017T120000Z
+SUMMARY:English Reading 2 [English--Cole]
+DTSTART;VALUE=DATE:20261104
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_802#assi
+ gnment_9102
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-9103
+DTSTAMP:20261017T120000Z
+SUMMARY:English Reading 3 [English--Cole]
+DTSTART;VALUE=DATE:20261105
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_802#assi
+ gnment_9103
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-9104
+DTSTAMP:20261017T120000Z
+SUMMARY:English Reading 4 [English--Cole]
+DTSTART;VALUE=DATE:20261106
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_802#assi
+ gnment_9104
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-9105
+DTSTAMP:20261017T120000Z
+SUMMARY:English Reading 5 [English--Cole]
+DTSTART;VALUE=DATE:20261107
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_802#assi
+ gnment_9105
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-9106
+DTSTAMP:20261017T120000Z
+SUMMARY:English Reading 6 [English--Cole]
+DTSTART;VALUE=DATE:20261108
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_802#assi
+ gnment_9106
+END:VEVENT
+END:VCALENDAR
