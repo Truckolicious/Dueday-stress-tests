@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Stress Test//Dueday//EN
+X-WR-CALNAME:Confusing Classes
+BEGIN:VEVENT
+UID:event-assignment-5030
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 5 [Chemistry--Smith]
+DTSTART;VALUE=DATE:20261021
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_501&mont
+ h=10&year=2026#assignment_5030
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5031
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 6 [Chemistry--Smith]
+DTSTART;VALUE=DATE:20261022
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_502&mont
+ h=10&year=2026#assignment_5031
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5032
+DTSTAMP:20261017T120000Z
+SUMMARY:Unit 3 Test [Algebra 2--Reyes]
+DTSTART;VALUE=DATE:20261023
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_503&mont
+ h=10&year=2026#assignment_5032
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5033
+DTSTAMP:20261017T120000Z
+SUMMARY:Warm-up 14 [Period 3 Chemistry--Wu]
+DTSTART;VALUE=DATE:20261024
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_504&mont
+ h=10&year=2026#assignment_5033
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5034
+DTSTAMP:20261017T120000Z
+SUMMARY:Case Study 2 [HR 101: Intro to Human Resources]
+DTSTART;VALUE=DATE:20261025
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_505&mont
+ h=10&year=2026#assignment_5034
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5035
+DTSTAMP:20261017T120000Z
+SUMMARY:Reflection [Chemistry - Period 210]
+DTSTART;VALUE=DATE:20261026
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_506&mont
+ h=10&year=2026#assignment_5035
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5036
+DTSTAMP:20261017T120000Z
+SUMMARY:Problem Set 3 [MATH 1920 LEC 001 (FA26)]
+DTSTART;VALUE=DATE:20261027
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_507&mont
+ h=10&year=2026#assignment_5036
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5037
+DTSTAMP:20261017T120000Z
+SUMMARY:Problem Set 4 [MATH 1920 LEC 001 (FA26)]
+DTSTART;VALUE=DATE:20261028
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_507&mont
+ h=10&year=2026#assignment_5037
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5038
+DTSTAMP:20261017T120000Z
+SUMMARY:Project Proposal [CS 2110/ENGRD 2110 Object-Oriented Programming]
+DTSTART;VALUE=DATE:20261029
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_508&mont
+ h=10&year=2026#assignment_5038
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5039
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 7 [Room 204 Study Skills]
+DTSTART;VALUE=DATE:20261030
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_509&mont
+ h=10&year=2026#assignment_5039
+END:VEVENT
+END:VCALENDAR

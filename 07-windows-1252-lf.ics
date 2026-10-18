@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Stress Test//Dueday//EN
+X-WR-CALNAME:Windows-1252
+BEGIN:VEVENT
+UID:event-assignment-5017
+DTSTAMP:20261017T120000Z
+SUMMARY:Résumé Draft [Career Prep--Gómez]
+DTSTART;VALUE=DATE:20261021
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_301&mont
+ h=10&year=2026#assignment_5017
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5018
+DTSTAMP:20261017T120000Z
+SUMMARY:Café Business Plan [Career Prep--Gómez]
+DTSTART;VALUE=DATE:20261024
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_301&mont
+ h=10&year=2026#assignment_5018
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5019
+DTSTAMP:20261017T120000Z
+SUMMARY:Señor Quiz 2 [Spanish I--Peña]
+DTSTART;VALUE=DATE:20261022
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_302&mont
+ h=10&year=2026#assignment_5019
+END:VEVENT
+END:VCALENDAR

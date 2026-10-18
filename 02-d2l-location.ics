@@ -1,0 +1,284 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Stress Test//Dueday//EN
+X-WR-CALNAME:D2L Location Courses
+BEGIN:VEVENT
+UID:101-6606@d2l.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 1 - Available
+DTSTART:20261020T150000Z
+URL:https://d2l.stresstest.edu/d2l/le/calendar/6606/event/101/detailsview#1
+ 01
+LOCATION:MATH 112 FA26 007
+END:VEVENT
+BEGIN:VEVENT
+UID:102-6606@d2l.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 1 - Due
+DTSTART:20261022T065900Z
+URL:https://d2l.stresstest.edu/d2l/le/calendar/6606/event/102/detailsview#1
+ 02
+LOCATION:MATH 112 FA26 007
+END:VEVENT
+BEGIN:VEVENT
+UID:103-6606@d2l.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 2 - Available
+DTSTART:20261023T150000Z
+URL:https://d2l.stresstest.edu/d2l/le/calendar/6606/event/103/detailsview#1
+ 03
+LOCATION:MATH 112 FA26 007
+END:VEVENT
+BEGIN:VEVENT
+UID:104-6606@d2l.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 2 - Due
+DTSTART:20261025T065900Z
+URL:https://d2l.stresstest.edu/d2l/le/calendar/6606/event/104/detailsview#1
+ 04
+LOCATION:MATH 112 FA26 007
+END:VEVENT
+BEGIN:VEVENT
+UID:105-6606@d2l.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 3 - Available
+DTSTART:20261026T150000Z
+URL:https://d2l.stresstest.edu/d2l/le/calendar/6606/event/105/detailsview#1
+ 05
+LOCATION:MATH 112 FA26 007
+END:VEVENT
+BEGIN:VEVENT
+UID:106-6606@d2l.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 3 - Due
+DTSTART:20261028T065900Z
+URL:https://d2l.stresstest.edu/d2l/le/calendar/6606/event/106/detailsview#1
+ 06
+LOCATION:MATH 112 FA26 007
+END:VEVENT
+BEGIN:VEVENT
+UID:107-6606@d2l.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Attendance/Participation 1 - Available
+DTSTART:20261021T150000Z
+URL:https://d2l.stresstest.edu/d2l/le/calendar/6606/event/107/detailsview#1
+ 07
+LOCATION:WRIT 109H FA26 001 011 013
+END:VEVENT
+BEGIN:VEVENT
+UID:108-6606@d2l.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Attendance/Participation 1 - Due
+DTSTART:20261023T065900Z
+URL:https://d2l.stresstest.edu/d2l/le/calendar/6606/event/108/detailsview#1
+ 08
+LOCATION:WRIT 109H FA26 001 011 013
+END:VEVENT
+BEGIN:VEVENT
+UID:109-6606@d2l.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Attendance/Participation 2 - Available
+DTSTART:20261024T150000Z
+URL:https://d2l.stresstest.edu/d2l/le/calendar/6606/event/109/detailsview#1
+ 09
+LOCATION:WRIT 109H FA26 001 011 013
+END:VEVENT
+BEGIN:VEVENT
+UID:110-6606@d2l.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Attendance/Participation 2 - Due
+DTSTART:20261026T065900Z
+URL:https://d2l.stresstest.edu/d2l/le/calendar/6606/event/110/detailsview#1
+ 10
+LOCATION:WRIT 109H FA26 001 011 013
+END:VEVENT
+BEGIN:VEVENT
+UID:111-6606@d2l.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Attendance/Participation 3 - Available
+DTSTART:20261027T150000Z
+URL:https://d2l.stresstest.edu/d2l/le/calendar/6606/event/111/detailsview#1
+ 11
+LOCATION:WRIT 109H FA26 001 011 013
+END:VEVENT
+BEGIN:VEVENT
+UID:112-6606@d2l.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Attendance/Participation 3 - Due
+DTSTART:20261029T065900Z
+URL:https://d2l.stresstest.edu/d2l/le/calendar/6606/event/112/detailsview#1
+ 12
+LOCATION:WRIT 109H FA26 001 011 013
+END:VEVENT
+BEGIN:VEVENT
+UID:113-6606@d2l.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading Response 1 - Available
+DTSTART:20261022T150000Z
+URL:https://d2l.stresstest.edu/d2l/le/calendar/6606/event/113/detailsview#1
+ 13
+LOCATION:FA26 ISTA 161: Ethics in a Digital World
+END:VEVENT
+BEGIN:VEVENT
+UID:114-6606@d2l.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading Response 1 - Due
+DTSTART:20261024T065900Z
+URL:https://d2l.stresstest.edu/d2l/le/calendar/6606/event/114/detailsview#1
+ 14
+LOCATION:FA26 ISTA 161: Ethics in a Digital World
+END:VEVENT
+BEGIN:VEVENT
+UID:115-6606@d2l.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading Response 2 - Available
+DTSTART:20261025T150000Z
+URL:https://d2l.stresstest.edu/d2l/le/calendar/6606/event/115/detailsview#1
+ 15
+LOCATION:FA26 ISTA 161: Ethics in a Digital World
+END:VEVENT
+BEGIN:VEVENT
+UID:116-6606@d2l.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading Response 2 - Due
+DTSTART:20261027T065900Z
+URL:https://d2l.stresstest.edu/d2l/le/calendar/6606/event/116/detailsview#1
+ 16
+LOCATION:FA26 ISTA 161: Ethics in a Digital World
+END:VEVENT
+BEGIN:VEVENT
+UID:117-6606@d2l.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading Response 3 - Available
+DTSTART:20261028T150000Z
+URL:https://d2l.stresstest.edu/d2l/le/calendar/6606/event/117/detailsview#1
+ 17
+LOCATION:FA26 ISTA 161: Ethics in a Digital World
+END:VEVENT
+BEGIN:VEVENT
+UID:118-6606@d2l.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading Response 3 - Due
+DTSTART:20261030T065900Z
+URL:https://d2l.stresstest.edu/d2l/le/calendar/6606/event/118/detailsview#1
+ 18
+LOCATION:FA26 ISTA 161: Ethics in a Digital World
+END:VEVENT
+BEGIN:VEVENT
+UID:119-6606@d2l.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Reflection 1 - Available
+DTSTART:20261023T150000Z
+URL:https://d2l.stresstest.edu/d2l/le/calendar/6606/event/119/detailsview#1
+ 19
+LOCATION:UNIV 101 FA26 042
+END:VEVENT
+BEGIN:VEVENT
+UID:120-6606@d2l.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Reflection 1 - Due
+DTSTART:20261025T065900Z
+URL:https://d2l.stresstest.edu/d2l/le/calendar/6606/event/120/detailsview#1
+ 20
+LOCATION:UNIV 101 FA26 042
+END:VEVENT
+BEGIN:VEVENT
+UID:121-6606@d2l.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Reflection 2 - Available
+DTSTART:20261026T150000Z
+URL:https://d2l.stresstest.edu/d2l/le/calendar/6606/event/121/detailsview#1
+ 21
+LOCATION:UNIV 101 FA26 042
+END:VEVENT
+BEGIN:VEVENT
+UID:122-6606@d2l.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Reflection 2 - Due
+DTSTART:20261028T065900Z
+URL:https://d2l.stresstest.edu/d2l/le/calendar/6606/event/122/detailsview#1
+ 22
+LOCATION:UNIV 101 FA26 042
+END:VEVENT
+BEGIN:VEVENT
+UID:123-6606@d2l.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Reflection 3 - Available
+DTSTART:20261029T150000Z
+URL:https://d2l.stresstest.edu/d2l/le/calendar/6606/event/123/detailsview#1
+ 23
+LOCATION:UNIV 101 FA26 042
+END:VEVENT
+BEGIN:VEVENT
+UID:124-6606@d2l.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Reflection 3 - Due
+DTSTART:20261031T065900Z
+URL:https://d2l.stresstest.edu/d2l/le/calendar/6606/event/124/detailsview#1
+ 24
+LOCATION:UNIV 101 FA26 042
+END:VEVENT
+BEGIN:VEVENT
+UID:125-6606@d2l.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 4 - Availability Ends
+DTSTART:20261030T065900Z
+URL:https://d2l.stresstest.edu/d2l/le/calendar/6606/event/125/detailsview#1
+ 25
+LOCATION:MATH 112 FA26 007
+END:VEVENT
+BEGIN:VEVENT
+UID:126-6606@d2l.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Study Hall Session 1
+DTSTART:20261021T230000Z
+URL:https://d2l.stresstest.edu/d2l/le/calendar/6606/event/126/detailsview#1
+ 26
+LOCATION:Nugent room 100 (Campus Launchpad 2026)
+END:VEVENT
+BEGIN:VEVENT
+UID:127-6606@d2l.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Wellness Walk 1
+DTSTART:20261021T180000Z
+URL:https://d2l.stresstest.edu/d2l/le/calendar/6606/event/127/detailsview#1
+ 27
+LOCATION:Rec Center Courtyard
+END:VEVENT
+BEGIN:VEVENT
+UID:128-6606@d2l.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Study Hall Session 2
+DTSTART:20261025T230000Z
+URL:https://d2l.stresstest.edu/d2l/le/calendar/6606/event/128/detailsview#1
+ 28
+LOCATION:Nugent room 100 (Campus Launchpad 2026)
+END:VEVENT
+BEGIN:VEVENT
+UID:129-6606@d2l.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Wellness Walk 2
+DTSTART:20261025T180000Z
+URL:https://d2l.stresstest.edu/d2l/le/calendar/6606/event/129/detailsview#1
+ 29
+LOCATION:Rec Center Courtyard
+END:VEVENT
+BEGIN:VEVENT
+UID:130-6606@d2l.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Study Hall Session 3
+DTSTART:20261029T230000Z
+URL:https://d2l.stresstest.edu/d2l/le/calendar/6606/event/130/detailsview#1
+ 30
+LOCATION:Nugent room 100 (Campus Launchpad 2026)
+END:VEVENT
+BEGIN:VEVENT
+UID:131-6606@d2l.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Wellness Walk 3
+DTSTART:20261029T180000Z
+URL:https://d2l.stresstest.edu/d2l/le/calendar/6606/event/131/detailsview#1
+ 31
+LOCATION:Rec Center Courtyard
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,5125 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Stress Test//Dueday//EN
+X-WR-CALNAME:Big Feed
+BEGIN:VEVENT
+UID:event-assignment-5071
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 1 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261021
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5071
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5072
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 2 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261023
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5072
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5073
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 3 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261025
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5073
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5074
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 4 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261027
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5074
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5075
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 5 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261029
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5075
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5076
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 6 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261031
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5076
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5077
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 7 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261102
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5077
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5078
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 8 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261104
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5078
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5079
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 9 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261106
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5079
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5080
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 10 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261108
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5080
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5081
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 11 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261110
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5081
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5082
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 12 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261112
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5082
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5083
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 13 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261114
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5083
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5084
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 14 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261116
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5084
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5085
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 15 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261118
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5085
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5086
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 16 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261120
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5086
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5087
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 17 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261122
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5087
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5088
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 18 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261124
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5088
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5089
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 19 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261126
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5089
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5090
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 20 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261128
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5090
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5091
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 21 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261130
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5091
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5092
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 22 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261202
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5092
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5093
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 23 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261204
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5093
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5094
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 24 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261206
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5094
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5095
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 25 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261208
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5095
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5096
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 26 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261210
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5096
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5097
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 27 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261212
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5097
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5098
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 28 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261214
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5098
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5099
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 29 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261216
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5099
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5100
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 30 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261218
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5100
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5101
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 31 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261021
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5101
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5102
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 32 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261023
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5102
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5103
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 33 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261025
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5103
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5104
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 34 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261027
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5104
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5105
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 35 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261029
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5105
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5106
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 36 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261031
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5106
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5107
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 37 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261102
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5107
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5108
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 38 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261104
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5108
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5109
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 39 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261106
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5109
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5110
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 40 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261108
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5110
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5111
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 41 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261110
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5111
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5112
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 42 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261112
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5112
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5113
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 43 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261114
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5113
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5114
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 44 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261116
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5114
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5115
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 45 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261118
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5115
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5116
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 46 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261120
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5116
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5117
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 47 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261122
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5117
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5118
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 48 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261124
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5118
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5119
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 49 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261126
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5119
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5120
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 50 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20261128
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5120
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5121
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 1 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261022
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5121
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5122
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 2 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261024
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5122
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5123
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 3 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261026
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5123
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5124
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 4 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261028
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5124
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5125
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 5 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261030
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5125
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5126
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 6 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261101
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5126
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5127
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 7 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261103
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5127
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5128
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 8 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261105
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5128
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5129
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 9 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261107
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5129
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5130
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 10 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261109
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5130
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5131
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 11 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261111
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5131
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5132
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 12 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261113
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5132
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5133
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 13 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261115
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5133
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5134
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 14 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261117
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5134
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5135
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 15 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261119
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5135
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5136
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 16 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261121
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5136
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5137
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 17 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261123
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5137
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5138
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 18 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261125
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5138
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5139
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 19 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261127
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5139
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5140
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 20 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261129
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5140
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5141
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 21 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261201
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5141
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5142
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 22 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261203
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5142
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5143
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 23 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261205
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5143
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5144
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 24 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261207
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5144
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5145
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 25 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261209
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5145
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5146
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 26 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261211
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5146
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5147
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 27 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261213
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5147
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5148
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 28 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261215
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5148
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5149
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 29 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261217
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5149
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5150
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 30 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261219
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5150
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5151
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 31 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261022
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5151
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5152
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 32 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261024
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5152
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5153
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 33 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261026
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5153
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5154
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 34 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261028
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5154
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5155
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 35 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261030
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5155
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5156
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 36 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261101
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5156
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5157
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 37 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261103
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5157
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5158
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 38 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261105
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5158
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5159
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 39 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261107
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5159
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5160
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 40 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261109
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5160
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5161
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 41 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261111
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5161
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5162
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 42 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261113
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5162
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5163
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 43 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261115
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5163
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5164
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 44 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261117
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5164
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5165
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 45 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261119
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5165
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5166
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 46 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261121
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5166
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5167
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 47 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261123
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5167
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5168
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 48 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261125
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5168
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5169
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 49 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261127
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5169
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5170
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 50 [Course B--Teacher2]
+DTSTART;VALUE=DATE:20261129
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_701&mont
+ h=10&year=2026#assignment_5170
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5171
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 1 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261023
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5171
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5172
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 2 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261025
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5172
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5173
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 3 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261027
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5173
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5174
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 4 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261029
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5174
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5175
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 5 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261031
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5175
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5176
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 6 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261102
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5176
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5177
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 7 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261104
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5177
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5178
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 8 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261106
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5178
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5179
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 9 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261108
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5179
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5180
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 10 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261110
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5180
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5181
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 11 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261112
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5181
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5182
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 12 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261114
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5182
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5183
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 13 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261116
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5183
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5184
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 14 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261118
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5184
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5185
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 15 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261120
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5185
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5186
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 16 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261122
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5186
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5187
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 17 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261124
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5187
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5188
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 18 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261126
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5188
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5189
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 19 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261128
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5189
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5190
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 20 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261130
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5190
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5191
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 21 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261202
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5191
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5192
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 22 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261204
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5192
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5193
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 23 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261206
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5193
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5194
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 24 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261208
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5194
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5195
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 25 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261210
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5195
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5196
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 26 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261212
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5196
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5197
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 27 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261214
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5197
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5198
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 28 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261216
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5198
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5199
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 29 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261218
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5199
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5200
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 30 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261021
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5200
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5201
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 31 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261023
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5201
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5202
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 32 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261025
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5202
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5203
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 33 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261027
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5203
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5204
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 34 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261029
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5204
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5205
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 35 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261031
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5205
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5206
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 36 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261102
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5206
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5207
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 37 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261104
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5207
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5208
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 38 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261106
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5208
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5209
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 39 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261108
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5209
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5210
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 40 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261110
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5210
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5211
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 41 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261112
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5211
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5212
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 42 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261114
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5212
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5213
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 43 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261116
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5213
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5214
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 44 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261118
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5214
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5215
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 45 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261120
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5215
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5216
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 46 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261122
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5216
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5217
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 47 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261124
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5217
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5218
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 48 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261126
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5218
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5219
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 49 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261128
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5219
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5220
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 50 [Course C--Teacher3]
+DTSTART;VALUE=DATE:20261130
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_702&mont
+ h=10&year=2026#assignment_5220
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5221
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 1 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261024
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5221
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5222
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 2 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261026
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5222
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5223
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 3 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261028
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5223
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5224
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 4 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261030
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5224
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5225
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 5 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261101
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5225
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5226
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 6 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261103
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5226
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5227
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 7 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261105
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5227
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5228
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 8 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261107
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5228
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5229
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 9 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261109
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5229
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5230
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 10 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261111
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5230
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5231
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 11 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261113
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5231
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5232
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 12 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261115
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5232
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5233
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 13 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261117
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5233
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5234
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 14 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261119
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5234
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5235
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 15 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261121
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5235
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5236
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 16 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261123
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5236
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5237
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 17 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261125
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5237
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5238
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 18 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261127
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5238
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5239
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 19 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261129
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5239
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5240
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 20 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261201
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5240
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5241
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 21 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261203
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5241
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5242
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 22 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261205
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5242
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5243
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 23 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261207
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5243
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5244
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 24 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261209
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5244
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5245
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 25 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261211
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5245
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5246
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 26 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261213
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5246
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5247
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 27 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261215
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5247
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5248
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 28 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261217
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5248
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5249
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 29 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261219
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5249
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5250
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 30 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261022
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5250
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5251
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 31 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261024
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5251
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5252
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 32 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261026
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5252
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5253
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 33 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261028
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5253
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5254
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 34 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261030
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5254
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5255
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 35 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261101
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5255
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5256
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 36 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261103
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5256
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5257
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 37 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261105
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5257
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5258
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 38 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261107
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5258
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5259
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 39 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261109
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5259
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5260
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 40 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261111
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5260
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5261
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 41 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261113
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5261
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5262
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 42 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261115
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5262
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5263
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 43 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261117
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5263
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5264
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 44 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261119
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5264
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5265
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 45 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261121
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5265
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5266
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 46 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261123
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5266
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5267
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 47 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261125
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5267
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5268
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 48 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261127
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5268
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5269
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 49 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261129
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5269
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5270
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 50 [Course D--Teacher4]
+DTSTART;VALUE=DATE:20261201
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_703&mont
+ h=10&year=2026#assignment_5270
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5271
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 1 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261025
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5271
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5272
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 2 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261027
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5272
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5273
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 3 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261029
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5273
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5274
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 4 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261031
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5274
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5275
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 5 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261102
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5275
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5276
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 6 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261104
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5276
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5277
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 7 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261106
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5277
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5278
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 8 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261108
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5278
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5279
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 9 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261110
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5279
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5280
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 10 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261112
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5280
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5281
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 11 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261114
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5281
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5282
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 12 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261116
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5282
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5283
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 13 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261118
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5283
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5284
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 14 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261120
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5284
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5285
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 15 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261122
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5285
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5286
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 16 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261124
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5286
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5287
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 17 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261126
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5287
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5288
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 18 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261128
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5288
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5289
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 19 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261130
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5289
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5290
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 20 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261202
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5290
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5291
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 21 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261204
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5291
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5292
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 22 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261206
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5292
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5293
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 23 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261208
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5293
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5294
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 24 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261210
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5294
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5295
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 25 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261212
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5295
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5296
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 26 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261214
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5296
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5297
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 27 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261216
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5297
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5298
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 28 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261218
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5298
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5299
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 29 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261021
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5299
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5300
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 30 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261023
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5300
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5301
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 31 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261025
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5301
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5302
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 32 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261027
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5302
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5303
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 33 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261029
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5303
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5304
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 34 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261031
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5304
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5305
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 35 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261102
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5305
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5306
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 36 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261104
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5306
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5307
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 37 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261106
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5307
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5308
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 38 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261108
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5308
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5309
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 39 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261110
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5309
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5310
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 40 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261112
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5310
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5311
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 41 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261114
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5311
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5312
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 42 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261116
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5312
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5313
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 43 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261118
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5313
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5314
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 44 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261120
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5314
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5315
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 45 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261122
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5315
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5316
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 46 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261124
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5316
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5317
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 47 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261126
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5317
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5318
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 48 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261128
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5318
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5319
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 49 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261130
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5319
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5320
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 50 [Course E--Teacher5]
+DTSTART;VALUE=DATE:20261202
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_704&mont
+ h=10&year=2026#assignment_5320
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5321
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 1 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261026
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5321
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5322
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 2 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261028
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5322
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5323
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 3 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261030
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5323
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5324
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 4 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261101
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5324
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5325
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 5 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261103
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5325
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5326
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 6 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261105
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5326
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5327
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 7 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261107
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5327
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5328
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 8 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261109
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5328
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5329
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 9 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261111
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5329
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5330
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 10 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261113
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5330
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5331
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 11 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261115
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5331
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5332
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 12 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261117
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5332
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5333
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 13 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261119
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5333
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5334
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 14 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261121
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5334
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5335
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 15 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261123
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5335
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5336
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 16 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261125
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5336
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5337
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 17 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261127
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5337
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5338
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 18 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261129
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5338
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5339
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 19 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261201
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5339
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5340
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 20 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261203
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5340
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5341
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 21 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261205
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5341
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5342
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 22 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261207
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5342
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5343
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 23 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261209
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5343
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5344
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 24 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261211
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5344
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5345
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 25 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261213
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5345
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5346
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 26 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261215
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5346
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5347
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 27 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261217
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5347
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5348
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 28 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261219
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5348
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5349
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 29 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261022
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5349
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5350
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 30 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261024
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5350
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5351
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 31 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261026
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5351
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5352
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 32 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261028
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5352
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5353
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 33 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261030
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5353
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5354
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 34 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261101
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5354
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5355
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 35 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261103
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5355
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5356
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 36 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261105
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5356
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5357
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 37 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261107
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5357
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5358
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 38 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261109
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5358
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5359
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 39 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261111
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5359
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5360
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 40 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261113
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5360
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5361
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 41 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261115
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5361
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5362
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 42 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261117
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5362
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5363
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 43 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261119
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5363
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5364
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 44 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261121
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5364
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5365
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 45 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261123
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5365
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5366
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 46 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261125
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5366
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5367
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 47 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261127
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5367
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5368
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 48 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261129
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5368
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5369
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 49 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261201
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5369
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5370
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 50 [Course F--Teacher6]
+DTSTART;VALUE=DATE:20261203
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_705&mont
+ h=10&year=2026#assignment_5370
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5371
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 1 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261027
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5371
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5372
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 2 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261029
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5372
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5373
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 3 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261031
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5373
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5374
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 4 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261102
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5374
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5375
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 5 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261104
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5375
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5376
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 6 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261106
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5376
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5377
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 7 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261108
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5377
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5378
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 8 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261110
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5378
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5379
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 9 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261112
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5379
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5380
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 10 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261114
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5380
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5381
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 11 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261116
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5381
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5382
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 12 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261118
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5382
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5383
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 13 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261120
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5383
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5384
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 14 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261122
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5384
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5385
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 15 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261124
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5385
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5386
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 16 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261126
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5386
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5387
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 17 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261128
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5387
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5388
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 18 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261130
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5388
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5389
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 19 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261202
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5389
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5390
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 20 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261204
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5390
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5391
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 21 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261206
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5391
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5392
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 22 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261208
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5392
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5393
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 23 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261210
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5393
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5394
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 24 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261212
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5394
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5395
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 25 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261214
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5395
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5396
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 26 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261216
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5396
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5397
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 27 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261218
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5397
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5398
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 28 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261021
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5398
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5399
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 29 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261023
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5399
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5400
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 30 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261025
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5400
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5401
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 31 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261027
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5401
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5402
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 32 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261029
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5402
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5403
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 33 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261031
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5403
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5404
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 34 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261102
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5404
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5405
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 35 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261104
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5405
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5406
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 36 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261106
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5406
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5407
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 37 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261108
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5407
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5408
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 38 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261110
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5408
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5409
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 39 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261112
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5409
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5410
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 40 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261114
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5410
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5411
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 41 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261116
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5411
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5412
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 42 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261118
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5412
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5413
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 43 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261120
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5413
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5414
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 44 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261122
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5414
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5415
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 45 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261124
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5415
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5416
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 46 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261126
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5416
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5417
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 47 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261128
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5417
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5418
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 48 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261130
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5418
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5419
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 49 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261202
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5419
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5420
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 50 [Course G--Teacher7]
+DTSTART;VALUE=DATE:20261204
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_706&mont
+ h=10&year=2026#assignment_5420
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5421
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 1 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261028
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5421
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5422
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 2 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261030
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5422
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5423
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 3 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261101
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5423
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5424
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 4 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261103
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5424
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5425
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 5 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261105
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5425
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5426
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 6 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261107
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5426
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5427
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 7 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261109
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5427
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5428
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 8 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261111
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5428
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5429
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 9 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261113
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5429
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5430
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 10 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261115
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5430
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5431
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 11 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261117
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5431
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5432
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 12 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261119
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5432
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5433
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 13 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261121
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5433
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5434
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 14 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261123
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5434
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5435
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 15 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261125
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5435
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5436
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 16 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261127
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5436
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5437
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 17 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261129
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5437
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5438
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 18 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261201
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5438
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5439
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 19 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261203
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5439
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5440
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 20 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261205
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5440
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5441
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 21 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261207
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5441
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5442
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 22 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261209
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5442
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5443
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 23 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261211
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5443
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5444
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 24 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261213
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5444
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5445
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 25 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261215
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5445
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5446
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 26 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261217
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5446
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5447
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 27 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261219
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5447
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5448
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 28 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261022
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5448
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5449
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 29 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261024
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5449
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5450
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 30 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261026
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5450
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5451
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 31 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261028
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5451
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5452
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 32 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261030
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5452
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5453
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 33 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261101
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5453
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5454
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 34 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261103
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5454
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5455
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 35 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261105
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5455
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5456
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 36 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261107
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5456
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5457
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 37 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261109
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5457
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5458
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 38 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261111
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5458
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5459
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 39 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261113
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5459
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5460
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 40 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261115
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5460
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5461
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 41 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261117
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5461
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5462
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 42 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261119
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5462
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5463
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 43 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261121
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5463
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5464
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 44 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261123
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5464
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5465
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 45 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261125
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5465
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5466
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 46 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261127
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5466
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5467
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 47 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261129
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5467
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5468
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 48 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261201
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5468
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5469
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 49 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261203
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5469
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5470
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 50 [Course H--Teacher8]
+DTSTART;VALUE=DATE:20261205
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_707&mont
+ h=10&year=2026#assignment_5470
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5471
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 1 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261029
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5471
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5472
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 2 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261031
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5472
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5473
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 3 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261102
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5473
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5474
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 4 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261104
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5474
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5475
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 5 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261106
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5475
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5476
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 6 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261108
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5476
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5477
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 7 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261110
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5477
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5478
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 8 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261112
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5478
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5479
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 9 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261114
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5479
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5480
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 10 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261116
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5480
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5481
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 11 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261118
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5481
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5482
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 12 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261120
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5482
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5483
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 13 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261122
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5483
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5484
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 14 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261124
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5484
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5485
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 15 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261126
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5485
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5486
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 16 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261128
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5486
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5487
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 17 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261130
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5487
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5488
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 18 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261202
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5488
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5489
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 19 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261204
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5489
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5490
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 20 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261206
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5490
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5491
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 21 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261208
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5491
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5492
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 22 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261210
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5492
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5493
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 23 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261212
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5493
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5494
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 24 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261214
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5494
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5495
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 25 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261216
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5495
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5496
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 26 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261218
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5496
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5497
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 27 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261021
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5497
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5498
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 28 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261023
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5498
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5499
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 29 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261025
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5499
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5500
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 30 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261027
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5500
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5501
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 31 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261029
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5501
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5502
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 32 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261031
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5502
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5503
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 33 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261102
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5503
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5504
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 34 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261104
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5504
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5505
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 35 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261106
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5505
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5506
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 36 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261108
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5506
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5507
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 37 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261110
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5507
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5508
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 38 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261112
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5508
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5509
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 39 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261114
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5509
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5510
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 40 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261116
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5510
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5511
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 41 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261118
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5511
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5512
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 42 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261120
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5512
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5513
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 43 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261122
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5513
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5514
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 44 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261124
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5514
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5515
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 45 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261126
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5515
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5516
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 46 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261128
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5516
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5517
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 47 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261130
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5517
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5518
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 48 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261202
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5518
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5519
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 49 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261204
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5519
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5520
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 50 [Course I--Teacher9]
+DTSTART;VALUE=DATE:20261206
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_708&mont
+ h=10&year=2026#assignment_5520
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5521
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 1 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261030
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5521
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5522
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 2 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261101
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5522
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5523
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 3 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261103
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5523
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5524
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 4 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261105
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5524
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5525
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 5 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261107
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5525
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5526
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 6 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261109
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5526
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5527
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 7 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261111
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5527
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5528
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 8 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261113
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5528
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5529
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 9 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261115
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5529
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5530
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 10 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261117
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5530
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5531
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 11 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261119
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5531
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5532
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 12 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261121
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5532
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5533
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 13 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261123
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5533
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5534
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 14 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261125
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5534
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5535
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 15 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261127
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5535
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5536
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 16 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261129
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5536
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5537
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 17 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261201
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5537
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5538
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 18 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261203
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5538
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5539
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 19 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261205
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5539
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5540
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 20 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261207
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5540
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5541
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 21 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261209
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5541
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5542
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 22 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261211
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5542
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5543
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 23 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261213
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5543
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5544
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 24 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261215
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5544
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5545
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 25 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261217
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5545
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5546
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 26 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261219
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5546
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5547
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 27 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261022
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5547
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5548
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 28 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261024
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5548
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5549
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 29 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261026
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5549
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5550
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 30 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261028
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5550
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5551
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 31 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261030
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5551
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5552
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 32 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261101
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5552
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5553
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 33 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261103
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5553
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5554
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 34 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261105
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5554
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5555
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 35 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261107
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5555
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5556
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 36 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261109
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5556
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5557
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 37 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261111
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5557
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5558
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 38 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261113
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5558
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5559
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 39 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261115
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5559
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5560
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 40 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261117
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5560
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5561
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 41 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261119
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5561
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5562
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 42 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261121
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5562
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5563
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 43 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261123
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5563
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5564
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 44 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261125
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5564
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5565
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 45 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261127
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5565
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5566
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 46 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261129
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5566
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5567
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 47 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261201
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5567
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5568
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 48 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261203
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5568
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5569
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 49 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261205
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5569
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5570
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 50 [Course J--Teacher10]
+DTSTART;VALUE=DATE:20261207
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_709&mont
+ h=10&year=2026#assignment_5570
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5571
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 1 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261031
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5571
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5572
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 2 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261102
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5572
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5573
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 3 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261104
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5573
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5574
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 4 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261106
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5574
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5575
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 5 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261108
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5575
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5576
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 6 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261110
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5576
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5577
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 7 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261112
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5577
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5578
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 8 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261114
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5578
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5579
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 9 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261116
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5579
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5580
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 10 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261118
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5580
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5581
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 11 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261120
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5581
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5582
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 12 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261122
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5582
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5583
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 13 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261124
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5583
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5584
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 14 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261126
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5584
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5585
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 15 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261128
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5585
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5586
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 16 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261130
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5586
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5587
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 17 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261202
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5587
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5588
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 18 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261204
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5588
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5589
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 19 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261206
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5589
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5590
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 20 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261208
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5590
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5591
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 21 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261210
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5591
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5592
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 22 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261212
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5592
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5593
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 23 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261214
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5593
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5594
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 24 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261216
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5594
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5595
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 25 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261218
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5595
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5596
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 26 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261021
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5596
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5597
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 27 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261023
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5597
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5598
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 28 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261025
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5598
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5599
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 29 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261027
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5599
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5600
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 30 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261029
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5600
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5601
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 31 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261031
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5601
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5602
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 32 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261102
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5602
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5603
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 33 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261104
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5603
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5604
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 34 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261106
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5604
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5605
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 35 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261108
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5605
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5606
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 36 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261110
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5606
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5607
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 37 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261112
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5607
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5608
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 38 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261114
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5608
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5609
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 39 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261116
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5609
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5610
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 40 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261118
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5610
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5611
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 41 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261120
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5611
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5612
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 42 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261122
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5612
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5613
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 43 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261124
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5613
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5614
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 44 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261126
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5614
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5615
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 45 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261128
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5615
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5616
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 46 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261130
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5616
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5617
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 47 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261202
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5617
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5618
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 48 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261204
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5618
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5619
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 49 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261206
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5619
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5620
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 50 [Course K--Teacher11]
+DTSTART;VALUE=DATE:20261208
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_710&mont
+ h=10&year=2026#assignment_5620
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5621
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 1 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261101
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5621
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5622
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 2 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261103
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5622
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5623
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 3 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261105
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5623
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5624
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 4 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261107
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5624
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5625
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 5 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261109
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5625
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5626
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 6 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261111
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5626
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5627
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 7 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261113
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5627
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5628
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 8 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261115
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5628
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5629
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 9 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261117
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5629
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5630
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 10 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261119
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5630
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5631
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 11 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261121
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5631
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5632
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 12 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261123
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5632
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5633
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 13 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261125
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5633
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5634
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 14 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261127
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5634
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5635
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 15 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261129
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5635
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5636
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 16 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261201
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5636
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5637
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 17 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261203
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5637
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5638
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 18 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261205
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5638
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5639
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 19 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261207
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5639
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5640
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 20 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261209
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5640
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5641
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 21 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261211
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5641
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5642
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 22 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261213
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5642
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5643
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 23 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261215
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5643
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5644
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 24 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261217
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5644
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5645
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 25 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261219
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5645
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5646
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 26 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261022
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5646
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5647
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 27 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261024
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5647
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5648
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 28 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261026
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5648
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5649
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 29 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261028
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5649
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5650
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 30 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261030
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5650
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5651
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 31 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261101
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5651
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5652
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 32 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261103
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5652
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5653
+DTSTAMP:20261017T120000Z
+SUMMARY:Homework 33 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261105
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5653
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5654
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 34 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261107
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5654
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5655
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 35 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261109
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5655
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5656
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 36 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261111
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5656
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5657
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 37 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261113
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5657
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5658
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 38 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261115
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5658
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5659
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 39 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261117
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5659
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5660
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab 40 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261119
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5660
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5661
+DTSTAMP:20261017T120000Z
+SUMMARY:Discussion 41 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261121
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5661
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5662
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 42 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261123
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5662
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5663
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 43 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261125
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5663
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5664
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 44 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261127
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5664
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5665
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 45 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261129
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5665
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5666
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 46 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261201
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5666
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5667
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 47 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261203
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5667
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5668
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 48 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261205
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5668
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5669
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 49 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261207
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5669
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5670
+DTSTAMP:20261017T120000Z
+SUMMARY:Worksheet 50 [Course L--Teacher12]
+DTSTART;VALUE=DATE:20261209
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_711&mont
+ h=10&year=2026#assignment_5670
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5671
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 1 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260901
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5671
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5672
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 2 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260902
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5672
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5673
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 3 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260903
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5673
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5674
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 4 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260904
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5674
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5675
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 5 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260905
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5675
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5676
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 6 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260906
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5676
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5677
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 7 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260907
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5677
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5678
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 8 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260908
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5678
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5679
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 9 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260909
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5679
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5680
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 10 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260910
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5680
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5681
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 11 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260911
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5681
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5682
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 12 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260912
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5682
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5683
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 13 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260913
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5683
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5684
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 14 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260914
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5684
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5685
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 15 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260915
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5685
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5686
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 16 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260916
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5686
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5687
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 17 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260917
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5687
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5688
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 18 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260918
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5688
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5689
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 19 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260919
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5689
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5690
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 20 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260920
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5690
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5691
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 21 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260921
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5691
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5692
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 22 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260922
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5692
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5693
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 23 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260923
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5693
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5694
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 24 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260924
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5694
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5695
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 25 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260925
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5695
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5696
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 26 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260926
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5696
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5697
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 27 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260927
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5697
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5698
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 28 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260928
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5698
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5699
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 29 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260901
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5699
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5700
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 30 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260902
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5700
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5701
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 31 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260903
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5701
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5702
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 32 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260904
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5702
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5703
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 33 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260905
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5703
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5704
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 34 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260906
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5704
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5705
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 35 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260907
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5705
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5706
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 36 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260908
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5706
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5707
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 37 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260909
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5707
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5708
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 38 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260910
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5708
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5709
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 39 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260911
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5709
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5710
+DTSTAMP:20261017T120000Z
+SUMMARY:Old Homework 40 [Course A--Teacher1]
+DTSTART;VALUE=DATE:20260912
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_700&mont
+ h=10&year=2026#assignment_5710
+END:VEVENT
+END:VCALENDAR

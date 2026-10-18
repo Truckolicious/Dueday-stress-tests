@@ -1,0 +1,45 @@
+﻿BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Stress Test//Dueday//EN
+X-WR-CALNAME:UTF-8 BOM
+BEGIN:VEVENT
+UID:event-assignment-5012
+DTSTAMP:20261017T120000Z
+SUMMARY:Ensayo: La casa de Bernarda Alba [Español IV--Muñoz]
+DTSTART;VALUE=DATE:20261021
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_201&mont
+ h=10&year=2026#assignment_5012
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5013
+DTSTAMP:20261017T120000Z
+SUMMARY:Vocabulario 8 🗣️ [Español IV--Muñoz]
+DTSTART;VALUE=DATE:20261023
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_201&mont
+ h=10&year=2026#assignment_5013
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5014
+DTSTAMP:20261017T120000Z
+SUMMARY:Dictée n° 3 [Français II--Lefèvre]
+DTSTART;VALUE=DATE:20261022
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_202&mont
+ h=10&year=2026#assignment_5014
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5015
+DTSTAMP:20261017T120000Z
+SUMMARY:漢字 Quiz 5 [Japanese I--田中]
+DTSTART;VALUE=DATE:20261024
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_203&mont
+ h=10&year=2026#assignment_5015
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5016
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading 📚 Ch. 6 [Literature--O'Brien]
+DTSTART;VALUE=DATE:20261025
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_204&mont
+ h=10&year=2026#assignment_5016
+END:VEVENT
+END:VCALENDAR

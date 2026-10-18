@@ -1,0 +1,105 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Stress Test//Dueday//EN
+X-WR-CALNAME:Messy Titles
+BEGIN:VEVENT
+UID:event-assignment-5020
+DTSTAMP:20261017T120000Z
+SUMMARY:Essay [Draft] [English 10--Hart]
+DTSTART;VALUE=DATE:20261021
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_401&mont
+ h=10&year=2026#assignment_5020
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5021
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading [Chapter 4] [English 10--Hart]
+DTSTART;VALUE=DATE:20261022
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_401&mont
+ h=10&year=2026#assignment_5021
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5022
+DTSTAMP:20261017T120000Z
+SUMMARY:Poem Analysis [Due Friday] [English 10--Hart]
+DTSTART;VALUE=DATE:20261023
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_401&mont
+ h=10&year=2026#assignment_5022
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5023
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz [11:59 PM] [English 10--Hart]
+DTSTART;VALUE=DATE:20261024
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_401&mont
+ h=10&year=2026#assignment_5023
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5024
+DTSTAMP:20261017T120000Z
+SUMMARY:42 [English 10--Hart]
+DTSTART;VALUE=DATE:20261025
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_401&mont
+ h=10&year=2026#assignment_5024
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5025
+DTSTAMP:20261017T120000Z
+SUMMARY:📝✨ [English 10--Hart]
+DTSTART;VALUE=DATE:20261026
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_401&mont
+ h=10&year=2026#assignment_5025
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5026
+DTSTAMP:20261017T120000Z
+SUMMARY:FINAL PORTFOLIO SUBMISSION — ALL UNITS (Rubric Attached) Please r
+ ead every instruction on the rubric carefully before you submit anything a
+ t all [English 10--Hart]
+DTSTART;VALUE=DATE:20261027
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_401&mont
+ h=10&year=2026#assignment_5026
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5027
+DTSTAMP:20261017T120000Z
+SUMMARY:Journal [Week 3] [Optional] [English 10--Hart]
+DTSTART;VALUE=DATE:20261028
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_401&mont
+ h=10&year=2026#assignment_5027
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5028
+DTSTAMP:20261017T120000Z
+SUMMARY:Notes (CS 101 crossover) [English 10--Hart]
+DTSTART;VALUE=DATE:20261029
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_401&mont
+ h=10&year=2026#assignment_5028
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5029
+DTSTAMP:20261017T120000Z
+SUMMARY:Group Debate: Pro/Con & Q&A [English 10--Hart]
+DTSTART;VALUE=DATE:20261030
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_401&mont
+ h=10&year=2026#assignment_5029
+END:VEVENT
+BEGIN:VEVENT
+UID:tag-1
+DTSTAMP:20261017T120000Z
+SUMMARY:Essay [Draft]
+DTSTART;VALUE=DATE:20261031
+END:VEVENT
+BEGIN:VEVENT
+UID:tag-2
+DTSTAMP:20261017T120000Z
+SUMMARY:Reading [Chapter 4]
+DTSTART;VALUE=DATE:20261101
+END:VEVENT
+BEGIN:VEVENT
+UID:tag-3
+DTSTAMP:20261017T120000Z
+SUMMARY:Poem Analysis [Due Friday]
+DTSTART;VALUE=DATE:20261102
+END:VEVENT
+END:VCALENDAR

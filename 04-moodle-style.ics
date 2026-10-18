@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Moodle Pty Ltd//NONSGML Moodle Version 2026//EN
+X-WR-CALNAME:Moodle Style
+BEGIN:VEVENT
+UID:1@moodle.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 1 opens
+DTSTART:20261021T120000Z
+URL:https://moodle.stresstest.edu/mod/assign/view.php?id=301
+CATEGORIES:BIO101
+END:VEVENT
+BEGIN:VEVENT
+UID:2@moodle.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 1 closes
+DTSTART:20261022T120000Z
+URL:https://moodle.stresstest.edu/mod/assign/view.php?id=302
+CATEGORIES:BIO101
+END:VEVENT
+BEGIN:VEVENT
+UID:3@moodle.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 2 opens
+DTSTART:20261023T120000Z
+URL:https://moodle.stresstest.edu/mod/assign/view.php?id=303
+CATEGORIES:BIO101
+END:VEVENT
+BEGIN:VEVENT
+UID:4@moodle.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Quiz 2 closes
+DTSTART:20261024T120000Z
+URL:https://moodle.stresstest.edu/mod/assign/view.php?id=304
+CATEGORIES:BIO101
+END:VEVENT
+BEGIN:VEVENT
+UID:5@moodle.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab report 3 is due
+DTSTART:20261025T120000Z
+URL:https://moodle.stresstest.edu/mod/assign/view.php?id=305
+CATEGORIES:BIO101
+END:VEVENT
+BEGIN:VEVENT
+UID:6@moodle.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Essay 1 is due
+DTSTART:20261026T120000Z
+URL:https://moodle.stresstest.edu/mod/assign/view.php?id=306
+CATEGORIES:Intro-Philosophy-F26
+END:VEVENT
+BEGIN:VEVENT
+UID:7@moodle.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Essay 2 is due
+DTSTART:20261027T120000Z
+URL:https://moodle.stresstest.edu/mod/assign/view.php?id=307
+CATEGORIES:Intro-Philosophy-F26
+END:VEVENT
+BEGIN:VEVENT
+UID:8@moodle.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Forum post 4 is due
+DTSTART:20261028T120000Z
+URL:https://moodle.stresstest.edu/mod/assign/view.php?id=308
+CATEGORIES:Intro-Philosophy-F26
+END:VEVENT
+BEGIN:VEVENT
+UID:9@moodle.stresstest.edu
+DTSTAMP:20261017T120000Z
+SUMMARY:Problem set 7 is due
+DTSTART:20261029T120000Z
+URL:https://moodle.stresstest.edu/mod/assign/view.php?id=309
+CATEGORIES:CHEM2010
+END:VEVENT
+END:VCALENDAR

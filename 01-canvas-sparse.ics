@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Stress Test//Dueday//EN
+X-WR-CALNAME:Canvas Sparse
+BEGIN:VEVENT
+UID:event-assignment-5001
+DTSTAMP:20261017T120000Z
+SUMMARY:Lab Report 4 [Biology--Nguyen]
+DTSTART;VALUE=DATE:20261020
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_101&mont
+ h=10&year=2026#assignment_5001
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5002
+DTSTAMP:20261017T120000Z
+SUMMARY:Test on 2.1-2.4 [Algebra 2--Patel]
+DTSTART;VALUE=DATE:20261021
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_102&mont
+ h=10&year=2026#assignment_5002
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5003
+DTSTAMP:20261017T120000Z
+SUMMARY:DBQ Essay [World History--Okafor]
+DTSTART;VALUE=DATE:20261022
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_103&mont
+ h=10&year=2026#assignment_5003
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5004
+DTSTAMP:20261017T120000Z
+SUMMARY:Vocab Quiz 7 [Spanish III--Ruiz]
+DTSTART;VALUE=DATE:20261023
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_104&mont
+ h=10&year=2026#assignment_5004
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5005
+DTSTAMP:20261017T120000Z
+SUMMARY:Rhetorical Analysis Draft [AP Lang--Brooks]
+DTSTART;VALUE=DATE:20261024
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_105&mont
+ h=10&year=2026#assignment_5005
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5006
+DTSTAMP:20261017T120000Z
+SUMMARY:Problem Set 5 [Physics--Kim]
+DTSTART;VALUE=DATE:20261025
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_106&mont
+ h=10&year=2026#assignment_5006
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5007
+DTSTAMP:20261017T120000Z
+SUMMARY:Problem Set 6 [Physics--Kim]
+DTSTART;VALUE=DATE:20261026
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_106&mont
+ h=10&year=2026#assignment_5007
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5008
+DTSTAMP:20261017T120000Z
+SUMMARY:Sketchbook Check [Art 1--Delgado]
+DTSTART;VALUE=DATE:20261027
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_107&mont
+ h=10&year=2026#assignment_5008
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5009
+DTSTAMP:20261017T120000Z
+SUMMARY:Nutrition Log [Health--Moore]
+DTSTART;VALUE=DATE:20261028
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_108&mont
+ h=10&year=2026#assignment_5009
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5010
+DTSTAMP:20261017T120000Z
+SUMMARY:Dentist [Jordan Lee]
+DTSTART:20261023T160000Z
+URL:https://canvas.stresstest.edu/calendar?include_contexts=user_9001&month
+ =10&year=2026#assignment_5010
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-5011
+DTSTAMP:20261017T120000Z
+SUMMARY:Group project meeting [Biology Lab Group 3]
+DTSTART:20261024T010000Z
+URL:https://canvas.stresstest.edu/calendar?include_contexts=group_9002&mont
+ h=10&year=2026#assignment_5011
+END:VEVENT
+END:VCALENDAR
