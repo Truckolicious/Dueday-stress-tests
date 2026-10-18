@@ -44,4 +44,32 @@ SUMMARY:History Essay 3 [US History--Grant]
 DTSTART;VALUE=DATE:20261111
 URL:https://canvas.stresstest.edu/calendar?include_contexts=course_902#assignment_7103
 END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-7201
+DTSTAMP:20261018T120000Z
+SUMMARY:Sketchbook 1 [Ceramics--Ruiz]
+DTSTART;VALUE=DATE:20261027
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_903#assignment_7201
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-7202
+DTSTAMP:20261018T120000Z
+SUMMARY:Sketchbook 2 [Ceramics--Ruiz]
+DTSTART;VALUE=DATE:20261103
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_903#assignment_7202
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-7203
+DTSTAMP:20261018T120000Z
+SUMMARY:Sketchbook 3 [Ceramics--Ruiz]
+DTSTART;VALUE=DATE:20261110
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_903#assignment_7203
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-7204
+DTSTAMP:20261018T120000Z
+SUMMARY:Glaze Project [Ceramics--Ruiz]
+DTSTART;VALUE=DATE:20261117
+URL:https://canvas.stresstest.edu/calendar?include_contexts=course_903#assignment_7204
+END:VEVENT
 END:VCALENDAR
